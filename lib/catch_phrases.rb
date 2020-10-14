@@ -11,7 +11,7 @@ def toadstool
 end
 
 def link
-  warning = "It's Dangerous To Go Alone. Take This."
+  warning = "It's Dangerous To Go Alone! Take This."
 end
 
 def all_phrases
